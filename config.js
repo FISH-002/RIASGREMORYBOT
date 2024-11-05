@@ -17,12 +17,12 @@ global.github = process.env.GITHUB || "https://github.com/Toxic1239/RIASGREMORYB
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaex2BtGU3BRQoeEsl0U";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/c21ae479aab857b4f8006.jpg";
-global.devs = "2348086541281";
-global.sudo = process.env.SUDO || "2348086541281";
-global.owner = process.env.OWNER_NUMBER || "2348086541281";
+global.devs = "2349133906200";
+global.sudo = process.env.SUDO || "2349133906200";
+global.owner = process.env.OWNER_NUMBER || "2349133906200";
 global.style = process.env.STYLE || "1";
 global.gdbye = process.env.GOODBYE || "false";
-global.wlcm = process.env.WELCOME || "false";
+global.wlcm = process.env.WELCOME || "true";
 global.warncount = process.env.WARN_COUNT || 3;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
@@ -42,7 +42,7 @@ global.scan = "https://riasgremorybot-xcqv.onrender.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib0xDREJPWUFoRXBRcWRlUUxyRGtIbm9aZzg1V2poRTJLQWhwcXpucFhXbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRXJ2OFF2RUZZanNYb1d1cFVhNGN6RjBmSmRpNHI4d3R3RktKQnNxQ05RRT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjUGJEaDJVT2VUT1dzWExRa3JRRUxRdTY2aFpUeGZ1UVI0Y004NGxmQ21FPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJWa3YwdFFSRk00ZVExdjNMK3A1ekdLemNPRVBjS0J6TzNIdWcwWVIwYTJNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNHQ2hTb0ZITEhvb25BL3owODlXL3dZWHpLWW1PRTNhT0NrYXBSVkk3WDQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii9JOG94SVhiV09ybWVXQWJsUEFjTThWdXJQVys3c2lkaDlwdXQyWWlTaVk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ0JkN3VJc3cwc0VSdmhST2hWcGlMTFJraDR2c2g3c2FSNUE4blp4OUtHMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRWlETjZCSkhtd1NlUUNXeEtXL2pqZnJPSUZsZVFIMlZ0WndIdi9MK3Axdz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkV4QytFMlh5V21NTyszZUhwdnJSWmQwd1ZrYVRhdUtVZlZadHVMQzlhbnVmRm1DSjk1WGdUeGo1NDJKWCs5VmY3MU5IS0UxUUpGenV5SlZ3RXM1VkNBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTU3LCJhZHZTZWNyZXRLZXkiOiJuZ2N1WjJNVlNiWW1kamxhTU1NYkFoaDlpVFhHNlBYTEZuVTZDTXplM0hJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJwbmNZbXhDNFFIdUpJbllnazRNYzl3IiwicGhvbmVJZCI6ImNhMDE2YTVlLTEwYjctNDliOC1iODFkLTk5YjMwMjJiY2NhOCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJqVlM2VWF5ZjVsQ1oxWXkrcE9MK1JaTE80SUU9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSFhTZFlkR1dWbmswVWx4Nk8rN3VaMGxEUUtzPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IlA2UzFOMkQ1IiwibWUiOnsiaWQiOiIyMzQ5MTMzOTA2MjAwOjM1QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IkNPQUNIIEZJU0gifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0pQTDFQVUhFTUd1bXJrR0dBVWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ik1jUTdYa2RoS3RCem9PWmRHSHVpSWl3bk5xUE5vclpaREZwbnRpaXZFM0U9IiwiYWNjb3VudFNpZ25hdHVyZSI6Ik1TT1U2MGN5RGRxS1FwWUdQdTNyT3E2eXpBdnh1bUJ3dGkrZ2NLbGhVaVBSTTh4bU44d0pYa0FQMVNBaDJNbC9iRUg1djMwcGRhUGZ3WXdQNjd5RkN3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiIvWHdaRWI3L2lRMmtWcERGOTh5cTNoNW9JWktJTTFlTHZ3LzVnYmQwelEyejVBMEVPRnA2RndrQ0NSbTM0MnRNYmdaNmh6eHkrUzdleVJVTmdiUHBCZz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDkxMzM5MDYyMDA6MzVAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVEhFTzE1SFlTclFjNkRtWFJoN29pSXNKemFqemFLMldReGFaN1lvcnhOeCJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTczMDU4MjM1MX0="
 module.exports = {
   menu: process.env.MENU || "1",
   HANDLERS: process.env.PREFIX || ".",
@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "ᴛᴏxxɪᴄ ᴍᴅ",
   packname: process.env.PACK_NAME || "𝗥𝗜𝗔𝗦 𝗠𝗗",
   botname: process.env.BOT_NAME || "𝗥𝗜𝗔𝗦 𝗚𝗥𝗘𝗠𝗢𝗥𝗬",
-  ownername: process.env.OWNER_NAME || "ᴛᴏxxɪᴄ",
+  ownername: process.env.OWNER_NAME || "coach fish",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
